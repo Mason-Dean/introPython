@@ -34,6 +34,5 @@ My recommended steps:
 ### Games
 * Rock, Paper, Sissors
 * Hang Man
-* Black Jack
 * Yatzee
-* 
+* Black Jack
